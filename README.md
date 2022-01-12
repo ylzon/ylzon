@@ -1,6 +1,12 @@
-### 2022 TodoList
+### 2022  🚩 TodoList
 
-* [ ] Java
-* [ ] all in TypeScript
+**☕️ Language**
+* [ ] Java (learning...)
+* [ ] All in TypeScript
 * [ ] Node + Next.js
-* [ ] algorithm + LeetCode
+
+**📚 Books**
+* [ ] 《深入浅出Node.js》 (reading...)
+
+**🪜 Other**
+* [ ] Begin algorithm + LeetCode
