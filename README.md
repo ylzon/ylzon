@@ -6,7 +6,7 @@
 * [ ] Node + Next.js
 
 **📚 Books**
-* [ ] 《深入浅出Node.js》 (reading...)
+* [x] 《深入浅出Node.js》★★★★☆
 
 **🪜 Other**
 * [ ] Begin algorithm + LeetCode
