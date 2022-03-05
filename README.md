@@ -1,12 +1,16 @@
 ### 2022  🚩 TodoList
 
-**☕️ Language**
-* [ ] Java (learning...)
-* [ ] All in TypeScript
-* [ ] Node + Next.js
+**📰 LANGUAGE**
+* [ ] Java (Learning...)
+* [ ] Go / Ruby - 新坑
 
-**📚 Books**
-* [x] 《深入浅出Node.js》★★★★☆
+**💻 OPEN SOURCE**
+* [ ] 五子棋在线联机版（Coding...）
+* [ ] React UI Library - 待填坑
+* [ ] Diagram Editor - 新坑
 
-**🪜 Other**
-* [ ] Begin algorithm + LeetCode
+**📚 BOOKS**
+* [x] 《深入浅出Node.js》★★★★★
+* [x] 《软技能：代码之外的生存指南》★★★★☆
+* [ ] 《Vue.js设计与实现》(Reading...)
+* [ ] 《操作系统导论》
