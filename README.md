@@ -5,7 +5,7 @@
 * [ ] Go / Ruby - 新坑
 
 **💻 OPEN SOURCE**
-* [ ] 五子棋在线联机版（Coding...）
+* [x] 五子棋在线联机版
 * [ ] React UI Library - 待填坑
 * [ ] Diagram Editor - 新坑
 
